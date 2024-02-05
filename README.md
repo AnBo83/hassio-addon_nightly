@@ -1,5 +1,5 @@
 # evcc-hassio-addon
-evcc Add-on for Home Assistant OS
+evcc "nightly" Add-on for Home Assistant OS
 
 # Installation
 
