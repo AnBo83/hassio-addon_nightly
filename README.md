@@ -21,7 +21,7 @@ Follow these steps to get the add-on installed on your system:
   
     <img width="400" src="docs/addonstore4.png">
   
-  - Copy "https://github.com/evcc-io/hassio-addon" Click -> Add
+  - Copy "https://github.com/AnBo83/hassio-addon_nightly" Click -> Add
   
   - Find the "evcc" add-on and click it.
   - Click on the "INSTALL" button.
